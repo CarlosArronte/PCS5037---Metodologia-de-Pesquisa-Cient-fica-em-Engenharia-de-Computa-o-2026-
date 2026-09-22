@@ -1,0 +1,71 @@
+\documentclass[12pt,a4paper]{article}
+
+% Idioma y codificación
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+
+% Márgenes y formato
+\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+
+% Matemática, figuras y tablas
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{float}
+
+% Enlaces y referencias
+\usepackage[hidelinks]{hyperref}
+\usepackage{csquotes}
+\usepackage[backend=biber,style=ieee]{biblatex}
+\addbibresource{referencias.bib}
+
+% Datos del documento
+\title{Título del documento}
+\author{Carlos Alberto Arronte Delgado}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Resumen breve del objetivo, método, resultados principales y conclusión.
+\end{abstract}
+
+\noindent\textbf{Palabras clave:} palabra 1; palabra 2; palabra 3.
+
+\tableofcontents
+\newpage
+
+\section{Introducción}
+Contexto, problema, motivación y organización del documento.
+
+\section{Objetivos}
+
+\subsection{Objetivo general}
+Definir el objetivo principal.
+
+\subsection{Objetivos específicos}
+\begin{itemize}
+    \item Objetivo específico 1.
+    \item Objetivo específico 2.
+\end{itemize}
+
+\section{Fundamentación teórica}
+Conceptos, trabajos relacionados y base metodológica.
+
+\section{Metodología}
+Describir datos, modelos, experimentos y métricas.
+
+\section{Resultados y discusión}
+Presentar, analizar e interpretar los resultados.
+
+\section{Conclusiones}
+Síntesis de aportes, limitaciones y trabajo futuro.
+
+\printbibliography
+
+\end{document}
