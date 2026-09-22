@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  22 SEP 2026 11:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  22 SEP 2026 15:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -692,11 +692,17 @@ LaTeX Info: Redefining \% on input line 1.
 
  [1
 
-{C:/Users/POLI/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3]
+{C:/Users/POLI/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
+Overfull \hbox (4.85567pt too wide) in paragraph at lines 91--91
+[]\T1/cmr/bx/n/17.28 Resumo Cap.2: Compu-tação e Clas-si-fi-cação das Ciên-
+ []
 
-LaTeX Warning: Empty bibliography on input line 118.
+[3] [4] [5] [6]
 
-[4] (Tarea1.aux
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 157.
+
+[7] [8] [9] [10] [11] (Tarea1.aux
 LaTeX Info: Redefining \sptext on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
@@ -706,23 +712,23 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `Tarea1.out' has not changed.
-(rerunfilecheck)             Checksum: 4877A2FB635F45912EC538E21028BC22;1236.
+(rerunfilecheck)             Checksum: BC6B71CEB84DAA5A137C5F81C656E66D;3382.
 Package logreq Info: Writing requests to 'Tarea1.run.xml'.
 \openout1 = `Tarea1.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20106 strings out of 467867
- 347724 string characters out of 5418819
- 1206532 words of memory out of 5000000
- 48736 multiletter control sequences out of 15000+600000
- 642601 words of font info for 79 fonts, out of 8000000 for 9000
+ 20131 strings out of 467867
+ 348189 string characters out of 5418819
+ 1209543 words of memory out of 5000000
+ 48744 multiletter control sequences out of 15000+600000
+ 641049 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,822b,1921s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk><C:/Users/POLI/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Tarea1.pdf (4 pages, 118627 bytes).
+ 75i,6n,79p,868b,1921s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\POLI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk><C:/Users/POLI/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Tarea1.pdf (11 pages, 148187 bytes).
 PDF statistics:
- 377 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 472 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
+ 169 words of extra memory for PDF output out of 10000 (max. 10000000)
 

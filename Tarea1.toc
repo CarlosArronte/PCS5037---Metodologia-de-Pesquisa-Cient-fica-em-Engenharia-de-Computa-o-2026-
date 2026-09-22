@@ -1,10 +1,22 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}Resumo Introducción}{2}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Comentários pessoais:}{3}{subsection.1.1}%
-\contentsline {section}{\numberline {2}Objetivos}{3}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Objetivo general}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Objetivos específicos}{4}{subsection.2.2}%
-\contentsline {section}{\numberline {3}Fundamentación teórica}{4}{section.3}%
-\contentsline {section}{\numberline {4}Metodología}{4}{section.4}%
-\contentsline {section}{\numberline {5}Resultados y discusión}{4}{section.5}%
-\contentsline {section}{\numberline {6}Conclusiones}{4}{section.6}%
+\contentsline {section}{\numberline {2}Resumo Cap.2: Computação e Classificação das Ciências}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Classificações abordadas neste capítulo}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Formais/Empíricas}{4}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Puras/Aplicadas}{5}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Exatas/Inexatas}{5}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Hard/Soft}{6}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}Nomotéticas/Idiográficas}{6}{subsubsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.2}Comentários pessoais:}{7}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Resumo Cap.3: Método Científico}{7}{section.3}%
+\contentsline {subsubsection}{\numberline {3.0.1}Empirismo}{7}{subsubsection.3.0.1}%
+\contentsline {subsubsection}{\numberline {3.0.2}Positivismo}{8}{subsubsection.3.0.2}%
+\contentsline {subsubsection}{\numberline {3.0.3}Pragmatismo}{8}{subsubsection.3.0.3}%
+\contentsline {subsubsection}{\numberline {3.0.4}Objetividade}{8}{subsubsection.3.0.4}%
+\contentsline {subsubsection}{\numberline {3.0.5}Indução}{9}{subsubsection.3.0.5}%
+\contentsline {subsubsection}{\numberline {3.0.6}Refutação}{9}{subsubsection.3.0.6}%
+\contentsline {subsubsection}{\numberline {3.0.7}Coerentismo}{10}{subsubsection.3.0.7}%
+\contentsline {subsubsection}{\numberline {3.0.8}Lâmina de Occam}{10}{subsubsection.3.0.8}%
+\contentsline {subsubsection}{\numberline {3.0.9}Construtivismo}{10}{subsubsection.3.0.9}%
+\contentsline {subsection}{\numberline {3.1}Comentários pessoais:}{11}{subsection.3.1}%
