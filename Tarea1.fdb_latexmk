@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Tarea1"] 0 "Tarea1.bcf" "Tarea1.bbl" "Tarea1" 1790088705.82131 0
+["biber Tarea1"] 0 "Tarea1.bcf" "Tarea1.bbl" "Tarea1" 1790088746.12498 0
   "Tarea1.bcf" 0 -1 0 "pdflatex"
   "referencias.bib" 0 -1 0 ""
   (generated)
   "Tarea1.bbl"
   "Tarea1.blg"
   (rewritten before read)
-["pdflatex"] 1790088703.88334 "c:/Users/POLI/Desktop/Carlos/PCS5037-Metodologia/PCS5037---Metodologia-de-Pesquisa-Cient-fica-em-Engenharia-de-Computa-o-2026-/Tarea1.tex" "Tarea1.pdf" "Tarea1" 1790088705.82194 0
+["pdflatex"] 1790088744.10831 "c:/Users/POLI/Desktop/Carlos/PCS5037-Metodologia/PCS5037---Metodologia-de-Pesquisa-Cient-fica-em-Engenharia-de-Computa-o-2026-/Tarea1.tex" "Tarea1.pdf" "Tarea1" 1790088746.12556 0
   "C:/Users/POLI/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1790083336 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/POLI/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk" 1790083339 28976 ac2b1035a23260d900179e5a822ef8ed ""
   "C:/Users/POLI/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1786374686 31952 34a5f7fb734b40cb30a78e1f435f030c ""
@@ -127,13 +127,13 @@
   "C:/Users/POLI/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
   "C:/Users/POLI/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "C:/Users/POLI/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Tarea1.aux" 1790088705 1390 0dcbb84c97507305a8a45de18372dd01 "pdflatex"
+  "Tarea1.aux" 1790088745 1519 936ac28981d833f16aef6cc3812fd51c "pdflatex"
   "Tarea1.bbl" 0 -1 0 "biber Tarea1"
-  "Tarea1.out" 1790088705 1068 43f9f55932ba60510159e3420c66db80 "pdflatex"
-  "Tarea1.run.xml" 1790088705 2417 91c4d7aed6d4c1343853f82f49139ca3 "pdflatex"
-  "Tarea1.tex" 1790088703 6294 5caa931b4511e48befc13ee27f8fdc9b ""
-  "Tarea1.toc" 1790088705 636 bb5da2f7cfc3ba842b1f4ab9c9934759 "pdflatex"
-  "c:/Users/POLI/Desktop/Carlos/PCS5037-Metodologia/PCS5037---Metodologia-de-Pesquisa-Cient-fica-em-Engenharia-de-Computa-o-2026-/Tarea1.tex" 1790088703 6294 5caa931b4511e48befc13ee27f8fdc9b ""
+  "Tarea1.out" 1790088745 1236 4877a2fb635f45912ec538e21028bc22 "pdflatex"
+  "Tarea1.run.xml" 1790088745 2417 91c4d7aed6d4c1343853f82f49139ca3 "pdflatex"
+  "Tarea1.tex" 1790088741 6319 c5dcf90a4b8f9a763416eb0faeef807f ""
+  "Tarea1.toc" 1790088745 724 931e36c80dab4e6f3f1410b1d7030b7b "pdflatex"
+  "c:/Users/POLI/Desktop/Carlos/PCS5037-Metodologia/PCS5037---Metodologia-de-Pesquisa-Cient-fica-em-Engenharia-de-Computa-o-2026-/Tarea1.tex" 1790088741 6319 c5dcf90a4b8f9a763416eb0faeef807f ""
   (generated)
   "Tarea1.aux"
   "Tarea1.bcf"
